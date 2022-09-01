@@ -16,6 +16,7 @@ public class Tabuada {
 		System.out.println(maxMultiplicador * (multiplicado));  
 		
 		}
+		//sas
 		
 		
 		
