@@ -7,6 +7,7 @@ public class Tabuada {
 	public int multiplicado;
 	public int minMultiplicador;
 	public int maxMultiplicador;
+	public String texto;
 
 	public String[] getTabuada() {
 		int tamanho = maxMultiplicador - minMultiplicador + 1;
